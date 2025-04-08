@@ -8,14 +8,6 @@ Este repositório contém um pipeline completo para o treinamento de um ensemble
 
 - [Descrição](#descrição)
 - [Dependências](#dependências)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Como Utilizar](#como-utilizar)
-- [Detalhes do Pipeline](#detalhes-do-pipeline)
-  - [Pré-processamento dos Dados](#pré-processamento-dos-dados)
-  - [Extração de Características](#extração-de-características)
-  - [Treinamento do Modelo](#treinamento-do-modelo)
-  - [Avaliação e Submissão](#avaliação-e-submissão)
-- [Observações](#observações)
 
 ---
 
